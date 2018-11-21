@@ -1,0 +1,30 @@
+{% if session.role_id == 1 %}
+<!-- LEFT SIDEBAR -->
+<div id="sidebar-nav" class="sidebar">
+    <div class="sidebar-scroll">
+        <nav>
+            <ul class="nav">
+                <li><a href="{{ url_for('main.dashboard')}}" class="active"><i class="lnr lnr-home"></i> <span>仪表盘</span></a></li>
+                <li><a href="#" class=""><i class="lnr lnr-dice"></i> <span>用户管理</span></a></li>
+                <li><a href="#" class=""><i class="lnr lnr-chart-bars"></i> <span>数据备份</span></a></li>
+                <li><a href="#" class=""><i class="lnr lnr-cog"></i> <span>服务器列表</span></a></li>
+                <li><a href="#" class=""><i class="lnr lnr-alarm"></i> <span>计划任务</span></a></li>
+                <li>
+                    <a href="#subPages" data-toggle="collapse" class="collapsed"><i class="lnr lnr-file-empty"></i> <span>工单</span> <i class="icon-submenu lnr lnr-chevron-left"></i></a>
+                    <div id="subPages" class="collapse ">
+                        <ul class="nav">
+                            <li><a href="#" class="">工单统计</a></li>
+                            <li><a href="#" class="">工单列表</a></li>
+                            <li><a href="#" class="">我的工单</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href="#" class=""><i class="lnr lnr-code"></i> <span></span>执行操作</a></li>
+                <!--<li><a href="#" class=""><i class="lnr lnr-text-format"></i> <span>Typography</span></a></li>-->
+                <!--<li><a href="#" class=""><i class="lnr lnr-linearicons"></i> <span>Icons</span></a></li>-->
+            </ul>
+        </nav>
+    </div>
+</div>
+<!-- END LEFT SIDEBAR -->
+{% endif%}

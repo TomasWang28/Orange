@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ORANGE运维平台</title>
+    <link type="text/css" rel="stylesheet" href="{{ url_for('static',filename='assets/css/style.css') }}">
+    <!--<link type="text/css" rel="stylesheet" href="{{ url_for('static',filename='assets/css/bootstrap.min.css') }}">-->
+    <script src="{{ url_for('static',filename='assets/scripts/main.js') }}"></script>
+    <link href="{{ url_for('static',filename='assets/img/juzi.ico') }}" type="image/x-icon" rel="icon">
+</head>
+<body>
+    {% if error_pass %}<div class="alert alert-success" role="alert">{{ error_pass }}</div>{% endif %}
+    <div id="container" class="divqj">
+      <div class="div1">
+        <div class="divtp">
+          <img src="{{ url_for('static', filename='assets/img/橘子b.png')}}">
+        </div>
+        <form method="post">
+        <div class="div2">
+          <h3>Please enter username and password</h3>
+          <input type="text" placeholder="Username" name="username" id="yyy">
+        </div>
+        <div class="div3">
+          <input type="password" placeholder="Password" name="password" id="mmm">
+        </div>
+        <div class="divdibu">
+          <input type="submit" value="login" id="tj" onclick="Pd()">
+        </div>
+        </form>
+      </div>
+      <div class="bqxx">
+      <p >Copyright @ 2018-11-15 Xuzhiwei & Wangshuaiwen Version1.0</p>
+      </div>
+    </div>
+</body>
+</html>

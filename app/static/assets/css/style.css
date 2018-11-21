@@ -1,0 +1,115 @@
+body{
+  margin: 0px;
+  /*padding: 0px;*/
+  background-color: #1b1e21;
+}
+
+#container{
+  width: 100%;
+  height: 100%;
+  /*margin: 0px;*/
+}
+
+.div1{
+  margin-top: 130px;
+  margin-left: auto;
+  margin-right: auto;
+  /*padding 10px;*/
+  /*background-color: #b3d4fc;*/
+  height: 450px;
+  width: 450px;
+  /*border: 1px solid violet;*/
+  /*box-shadow: 0 0 5px violet;*/
+  border-radius: 5px;
+}
+.div2{
+  margin-top: 1px;
+  margin-left: 75px;
+}
+.div3{
+  margin-top: 30px;
+  margin-left: 75px;
+}
+/*.div3{*/
+  /*margin-bottom: ;*/
+/*}*/
+input{
+  width: 300px;
+  height: 30px;
+  border-radius: 5px;
+}
+#tj{
+  width: 50px;
+  height: 25px;
+  border-radius: 6px;
+  background-color: #ffffff;
+  color: black;
+  margin-left: 380px;
+}
+h3{
+  /*margin-top: 15px;*/
+  margin-left: 0px;
+  font-family: myfont;
+  color: #ffffff;
+}
+.divtp{
+
+}
+.divtp>img{
+  margin-left: 85px;
+  width: 250px;
+  height: 250px;
+}
+@font-face {
+  font-family: myfont;
+  src: url("STXINWEI.TTF");
+}
+.bqxx{
+  margin-left: 560px;
+  color: #4e555b;
+  margin-top: 120px;
+  font-family: myfont;
+}
+
+.logo{
+  width: 170px;
+  height: 60px;
+}
+
+.rl{
+  width: 280px;
+  height: 150px;
+  background-color: #b3d4fc;
+  float: left;
+  margin-left: 30px;
+}
+hr{
+  margin-top: 30px;
+  clear: both;
+}
+.sl{
+  font-size: 4em;
+  margin-left: 20px;
+}
+.xsl{
+  font-weight: bold;
+  margin-left: 15px;
+  margin-top: 18px;
+}
+.xbq{
+  width: 60px;
+  height: 23px;
+  background-color: #00b488;
+  float: left;
+  margin-left: 100px;
+  margin-top: 13px;
+  border-radius: 6px;
+}
+.xslw{
+  width: 80px;
+  height: 50px;
+  float: left;
+}
+.xbq p{
+  margin-left: 7px;
+}

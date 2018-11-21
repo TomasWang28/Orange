@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Lemon</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+        <link rel="shortcut icon" href="{{ url_for('static', filename='image/juzi.ico') }}">
+        <link rel="icon" href="{{ url_for('static', filename='image/juzi.ico') }}">
+        <link rel="stylesheet"  href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+
+        <style>
+            body {
+                background-color:#2E363F;
+                padding: 0;
+                font-family: 'Open Sans', sans-serif; font-size:15px; color:#666;
+            }
+
+            .attention {
+                text-align: center;
+            }
+            h1 {
+                color: #28b779;
+                font-size: 120px;
+                font-weight: bold;
+                padding: 50px 0;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="attention">
+            <h1 align="center">Unauthorized! </h1>
+            <h3 align="center">You have no access to this page.</h3>
+            <a class="btn btn-warning btn-big "  href="{{ url_for('auth.login') }}">Back to Login</a>
+        </div>
+    </body>
+</html>
+

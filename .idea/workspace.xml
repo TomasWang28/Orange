@@ -5,200 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28c03191-8a27-425b-94d1-0ca95c4ec345" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/de2813f3-e6d4-4b15-b5a6-4dc87646a771.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/de2813f3-e6d4-4b15-b5a6-4dc87646a771/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/orange.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/db/data.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/css/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/css/demo.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/css/main.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/img/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/img/login-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/img/logo-dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/img/profile-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/img/user-medium.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/img/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/img/user1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/img/user2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/img/user3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/img/user4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/img/user5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/scripts/klorofil-common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/bootstrap/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/bootstrap/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/chartist/css/chartist-custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/chartist/css/chartist-custom.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/chartist/css/chartist.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/chartist/css/chartist.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/chartist/js/chartist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/chartist/js/chartist.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/chartist/map/chartist.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/chartist/map/chartist.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/chartist/scss/chartist.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/jquery-slimscroll/jquery.slimscroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/jquery-slimscroll/jquery.slimscroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/jquery.easy-pie-chart/angular.easypiechart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/jquery.easy-pie-chart/angular.easypiechart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/jquery.easy-pie-chart/easypiechart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/jquery.easy-pie-chart/easypiechart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/jquery.easy-pie-chart/jquery.easypiechart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/linearicons/fonts/Linearicons-Free.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/linearicons/fonts/Linearicons-Free.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/linearicons/fonts/Linearicons-Free.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/linearicons/fonts/Linearicons-Free.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/linearicons/fonts/Linearicons-Free.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/linearicons/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/toastr/toastr.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/toastr/toastr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/toastr/toastr.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/assets/vendor/toastr/toastr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/charts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/icons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/notifications.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/page-lockscreen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/page-login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/page-profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/panels.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/tables.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/demos/typography.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/main/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/main/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/session_login_flask/2029240f6d1128be89ddc32729463129" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/session_login_flask/978816614cff57681ddf3b2d434a764e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/css/STXINWEI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/css/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/css/demo.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/css/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/css/main.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/juzi.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/juzilogo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/login-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/logo-dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/profile-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/user-medium.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/user1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/user2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/user3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/user4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/user5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/橘子a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/img/橘子b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/scripts/klorofil-common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/scripts/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/chartist/css/chartist-custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/chartist/css/chartist-custom.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/chartist/css/chartist.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/chartist/css/chartist.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/chartist/js/chartist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/chartist/js/chartist.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/chartist/map/chartist.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/chartist/map/chartist.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/chartist/scss/chartist.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/jquery-slimscroll/jquery.slimscroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/jquery-slimscroll/jquery.slimscroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/jquery.easy-pie-chart/angular.easypiechart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/jquery.easy-pie-chart/angular.easypiechart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/jquery.easy-pie-chart/easypiechart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/jquery.easy-pie-chart/easypiechart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/jquery.easy-pie-chart/jquery.easypiechart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/linearicons/fonts/Linearicons-Free.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/linearicons/fonts/Linearicons-Free.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/linearicons/fonts/Linearicons-Free.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/linearicons/fonts/Linearicons-Free.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/linearicons/fonts/Linearicons-Free.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/linearicons/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/toastr/toastr.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/toastr/toastr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/toastr/toastr.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/assets/vendor/toastr/toastr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/Dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/Errors/error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/Errors/unauthorized.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/discards/descard_info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/discards/dis_main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/nav_bar_header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/script_js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/jsons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/sql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -263,8 +72,8 @@
           <entry key="project.open.time.2" value="5" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -309,7 +118,7 @@
           <entry key="dummy" value="15" />
           <entry key="gitignore" value="6" />
           <entry key="html" value="571" />
-          <entry key="md" value="209" />
+          <entry key="md" value="215" />
           <entry key="py" value="1704" />
         </counts>
       </usages-collector>
@@ -317,7 +126,7 @@
         <counts>
           <entry key="CSS" value="84" />
           <entry key="HTML" value="571" />
-          <entry key="Markdown" value="209" />
+          <entry key="Markdown" value="215" />
           <entry key="PLAIN_TEXT" value="21" />
           <entry key="Python" value="1704" />
           <entry key="Scratch" value="11" />
@@ -410,8 +219,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <first_editor relative-caret-position="430">
+                <caret line="20" column="101" selection-start-line="20" selection-start-column="101" selection-end-line="20" selection-end-column="101" />
               </first_editor>
               <second_editor />
             </state>
@@ -517,6 +326,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -533,7 +343,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -726,8 +535,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13873994" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14075068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1030,8 +840,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <first_editor relative-caret-position="430">
+            <caret line="20" column="101" selection-start-line="20" selection-start-column="101" selection-end-line="20" selection-end-column="101" />
           </first_editor>
           <second_editor />
         </state>

@@ -16,6 +16,6 @@ Ansible Api调用
 
 页面展示：  
 登录：  
-![avatar](screenshot/捕获1.png)
+![登录](https://raw.githubusercontent.com/TomasWang28/Orange/master/screenshot/%E6%8D%95%E8%8E%B71.PNG)  
 仪表盘：  
-![avatar](screenshot/捕获2.png)
+![仪表盘](https://raw.githubusercontent.com/TomasWang28/Orange/master/screenshot/%E6%8D%95%E8%8E%B72.PNG)  

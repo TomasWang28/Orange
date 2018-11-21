@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28c03191-8a27-425b-94d1-0ca95c4ec345" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -116,9 +115,9 @@
           <entry key="cell" value="11" />
           <entry key="css" value="84" />
           <entry key="dummy" value="15" />
-          <entry key="gitignore" value="6" />
+          <entry key="gitignore" value="7" />
           <entry key="html" value="571" />
-          <entry key="md" value="215" />
+          <entry key="md" value="223" />
           <entry key="py" value="1704" />
         </counts>
       </usages-collector>
@@ -126,8 +125,8 @@
         <counts>
           <entry key="CSS" value="84" />
           <entry key="HTML" value="571" />
-          <entry key="Markdown" value="215" />
-          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="Markdown" value="223" />
+          <entry key="PLAIN_TEXT" value="22" />
           <entry key="Python" value="1704" />
           <entry key="Scratch" value="11" />
         </counts>
@@ -206,21 +205,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="30">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="430">
-                <caret line="20" column="101" selection-start-line="20" selection-start-column="101" selection-end-line="20" selection-end-column="101" />
+              <first_editor relative-caret-position="270">
+                <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -303,8 +302,8 @@
         <option value="$PROJECT_DIR$/app/templates/login.html" />
         <option value="$PROJECT_DIR$/app/templates/layout.html" />
         <option value="$PROJECT_DIR$/app/templates/Dashboard.html" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -830,20 +829,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="430">
-            <caret line="20" column="101" selection-start-line="20" selection-start-column="101" selection-end-line="20" selection-end-column="101" />
+          <first_editor relative-caret-position="270">
+            <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

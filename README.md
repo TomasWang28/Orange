@@ -1,6 +1,6 @@
 # Orange 运维平台
 
-**这个项目通过Python的Flask搭建，前端用Bootstrap框架**
+**这个项目通过Python的Flask搭建，前端用jQuery框架**
 
 **目前开发的功能**：  
 用户登录 √  

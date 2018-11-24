@@ -21,3 +21,5 @@ Ansible Api调用
 仪表盘：  
 ![仪表盘](https://raw.githubusercontent.com/TomasWang28/Orange/master/screenshot/%E6%8D%95%E8%8E%B72.PNG)  
 用户管理：
+
+![用户管理](https://raw.githubusercontent.com/TomasWang28/Orange/master/screenshot/%E6%8D%95%E8%8E%B73.PNG)

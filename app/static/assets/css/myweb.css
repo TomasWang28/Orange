@@ -1,0 +1,15 @@
+.users-bottom button {
+    margin-bottom: 10px;
+}
+
+.table-myset thead > tr > th {
+    width: 20%;
+}
+
+.panel .padding-myset {
+    padding-top: 15px;
+}
+
+.zero-margin {
+    margin-bottom: 0px;
+}

@@ -6,6 +6,7 @@
 用户登录 √  
 Flask连接数据库 √  
 仪表盘的Web界面 √  
+用户管理前端页面 √
 
 **待开发的功能**：  
 服务器资产  
@@ -14,8 +15,11 @@ Flask连接数据库 √
 定时任务  
 Ansible Api调用
 
-页面展示：  
+**页面展示**：  
 登录：  
 ![登录](https://raw.githubusercontent.com/TomasWang28/Orange/master/screenshot/%E6%8D%95%E8%8E%B71.PNG)  
 仪表盘：  
 ![仪表盘](https://raw.githubusercontent.com/TomasWang28/Orange/master/screenshot/%E6%8D%95%E8%8E%B72.PNG)  
+用户管理：
+
+![用户管理](https://raw.githubusercontent.com/TomasWang28/Orange/master/screenshot/%E6%8D%95%E8%8E%B73.PNG)

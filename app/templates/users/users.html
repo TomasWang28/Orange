@@ -1,0 +1,98 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="panel">
+    <div class="panel-body">
+        <p class="users-bottom">
+            <button type="button" class="btn btn-success pull-right">添加用户</button>
+        </p>
+        <table class="table-myset table table-bordered">
+            <thead>
+            <tr>
+                <th>Username</th>
+                <th>Email</th>
+                <th>Created_time</th>
+                <th>UserRole</th>
+                <th>Actions</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>tomas</td>
+                <td>tomas@lemon.com</td>
+                <td>2018-11-15 17:59:15</td>
+                <td>Administrator</td>
+                <td>
+                    <button type="button" class="btn btn-info btn-xs">
+                        <i class="fa fa-pencil-square-o"></i>
+                    </button>
+                    <button type="button" class="btn btn-info btn-xs">
+                        <i class="fa fa-lock" aria-hidden="true"></i>
+                    </button>
+                    <button type="button" class="btn btn-danger btn-xs">
+                        <i class="fa fa-trash-o"></i>
+                    </button>
+                </td>
+            </tr>
+            <tr>
+                <td>gaga</td>
+                <td>gaga@lemon.com</td>
+                <td>2016-07-01 16:42:14</td>
+                <td>Develop</td>
+                <td>                    <button type="button" class="btn btn-info btn-xs">
+                    <i class="fa fa-pencil-square-o"></i>
+                </button>
+                    <button type="button" class="btn btn-info btn-xs">
+                        <i class="fa fa-lock" aria-hidden="true"></i>
+                    </button>
+                    <button type="button" class="btn btn-danger btn-xs">
+                        <i class="fa fa-trash-o"></i>
+                    </button>
+                </td>
+            </tr>
+            <tr>
+                <td>lala</td>
+                <td>lala@lemon.com</td>
+                <td>2016-07-01 17:58:10</td>
+                <td>User</td>
+                <td>                    <button type="button" class="btn btn-info btn-xs">
+                    <i class="fa fa-pencil-square-o"></i>
+                </button>
+                    <button type="button" class="btn btn-info btn-xs">
+                        <i class="fa fa-lock" aria-hidden="true"></i>
+                    </button>
+                    <button type="button" class="btn btn-danger btn-xs">
+                        <i class="fa fa-trash-o"></i>
+                    </button>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="panel">
+    <div class=" panel-body padding-myset">
+        <table class="zero-margin table table-bordered">
+            <thead>
+            <tr>
+                <th>Role_name</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Administrator</td>
+            </tr>
+            <tr>
+                <td>Develop</td>
+            </tr>
+            <tr>
+                <td>Guest</td>
+            </tr>
+            <tr>
+                <td>User</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endblock %}
